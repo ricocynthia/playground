@@ -40,6 +40,7 @@ const App: React.FC = () => {
           </Typography>
           <Button color="inherit">Login</Button>
         </Toolbar>
+        
       </AppBar>
       <Button href="/News"
           target="_blank"> Click Me </Button>
